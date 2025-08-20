@@ -5,25 +5,25 @@ Aqui você encontrará projetos que refletem minha jornada profissional, desde o
 
 🚀 Sobre mim
 
-Sou Tech Lead e especialista em DevOps com uma sólida trajetória na otimização de processos de infraestrutura e no impulsionamento de produtos Java. Com graduação em andamento em Engenharia de Software e formação como Tecnólogo em Redes de Computadores, sou um entusiasta autodidata da tecnologia, com foco em segurança da informação, infraestrutura em nuvem e DevSecOps.
+Sou Tech Lead e especialista em DevOps com uma sólida trajetória na otimização de processos de infraestrutura e no impulsionamento de produtos Java. Com graduação em andamento em Engenharia de Software e formação como Tecnólogo em Res de Computadores, sou um entusiasta autodidata da tecnologia, com foco em segurança da informação, infraestrutura em nuvem e DevSecOps.
 
-Atualmente, lidero iniciativas para elevar a experiência de desenvolvimento (DevEX) e entregar resultados de alto impacto. Meus estudos estão focados em aprofundar meus conhecimentos em tecnologias de ponta, incluindo WEB 3.0, protocolos de rede e Blockchain.
+Atualmente, lidero iniciativas para elevar a experiência de desenvolvimento (DevEX) e entregar resultados de alto impacto. Meus estudos estão focados em aprofundar meus conhecimentos em tecnologias de ponta, incluindo WEB 3.0, protocolos de re e Blockchain.
 
-🎓 Graduando em Engenharia de Software (PUC Minas) e Tecnólogo em Redes de Computadores (CEFET-MG)
+🎓 Graduando em Engenharia de Software (PUC Minas) e Tecnólogo em Res de Computadores (CEFET-MG)
 
-💼 Atualmente: Tech Lead na SYDLE
+💼 Atualmente: P.O Tech Lead na SYDLE
 
 📚 Estudando: Java, Spring Boot, DevSecOps, WEB 3.0 e Blockchain
 
 🌎 Localização: Belo Horizonte, Minas Gerais
 
-📫 Contato: eddiecp1501@gmail.com
+📫 Contato: arthur.araujo48@gmail.com
 
-![alt text](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![alt text](https://img.shields.io/badge/LinkIn-0A66C2?style=for-the-badge&logo=linkin&logoColor=white)
 
 💡 Experiência em Destaque
 
-Tech Lead | SYDLE (2023 - Atualmente)
+P.O Tech Lead | SYDLE (2023 - Atualmente)
 
 Como P.O. Tech Lead DevOps, otimizei processos de infraestrutura e impulsionei o produto Java, elevando o DevEX e entregando resultados impactantes.
 
@@ -33,7 +33,7 @@ Gerenciei clusters e migrações de tenants (aplicações, bancos de dados, Elas
 
 Resultados Notáveis:
 
-Redução de 60% nos custos com a implementação de autoscaling.
+Rução de 60% nos custos com a implementação de autoscaling.
 
 Aumento de 300% na taxa de deploy.
 
@@ -67,7 +67,7 @@ Cloud & DevOps:
 
 ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![alt text](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![alt text](https://img.shields.io/badge/Docker-2496?style=for-the-badge&logo=docker&logoColor=white)
 ![alt text](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![alt text](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -75,7 +75,7 @@ Cloud & DevOps:
 
 Linguagens de Programação & Frameworks:
 
-![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![alt text](https://img.shields.io/badge/Java-8B00?style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![alt text](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -93,7 +93,7 @@ Bancos de Dados & Outras Ferramentas:
 
 🌐 Conecte-se comigo
 
-![alt text](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![alt text](https://img.shields.io/badge/LinkIn-0A66C2?style=for-the-badge&logo=linkin&logoColor=white)
 
 
 ![alt text](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -101,7 +101,7 @@ Bancos de Dados & Outras Ferramentas:
 "O código é como o humor. Quando você tem que explicá-lo, é porque não foi bom o suficiente." — Cory House
 
 Google Search Suggestions
-Display of Search Suggestions is required when using Grounding with Google Search. Learn more
-Arthur Araújo P. LinkedIn
-desenvolvedor de software portfólio GitHub
+Display of Search Suggestions is requir when using Grounding with Google Search. Learn more
+Arthur Araújo P. LinkIn
+desenvolvor de software portfólio GitHub
 GitHub README for DevOps Tech Lead
